@@ -1,1 +1,1 @@
-"# Search-engine" 
+This project is a content-and-text-based search engine realized by Bedis Mansar and Rihab Jerbi. You can search either by text, image or using both to generate images in real-time. The frontend was developed using streamlit while the api used is FASTAPI. Other technologies and methods such a ElastiKNN and PCA were used to optimize the search.
